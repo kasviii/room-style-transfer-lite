@@ -1,7 +1,5 @@
 streamlit
 tensorflow-cpu==2.15.0
-tensorflow-hub==0.15.0
-setuptools
 pillow
 requests
 numpy
