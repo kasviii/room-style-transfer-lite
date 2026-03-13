@@ -1,7 +1,7 @@
-
 streamlit
 tensorflow-cpu
 tensorflow-hub
+setuptools
 pillow
 requests
 numpy
